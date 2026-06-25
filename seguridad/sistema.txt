@@ -1,0 +1,21 @@
+Información que muestra cada comando:
+
+Comando uname -a:
+Este comando muestra información general del sistema operativo.
+En el resultado obtenido se observa que el equipo utiliza Linux, 
+específicamente una versión de Ubuntu ejecutándose en un entorno de GitHub Codespaces. 
+También muestra la versión del kernel, la arquitectura del sistema (x86_64) y otros 
+datos relacionados con la plataforma donde funciona el servidor.
+
+Comando whoami:
+Este comando indica el usuario que está actualmente conectado al sistema. En este caso,
+el resultado fue `codespace`, lo que significa que la sesión está siendo ejecutada con ese 
+usuario dentro del entorno de GitHub Codespaces.
+
+¿Por qué es útil conocer información del sistema cuando se administra un servidor?
+
+Conocer la información del sistema permite a los administradores identificar qué sistema operativo
+ utiliza el servidor, qué versión tiene instalada y con qué usuario se está trabajando. 
+ Esto ayuda a realizar configuraciones correctas, solucionar errores, aplicar actualizaciones 
+ de seguridad y controlar los permisos de acceso. Además, permite tomar mejores decisiones para 
+ mantener la estabilidad y protección del servidor.

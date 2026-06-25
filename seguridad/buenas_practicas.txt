@@ -1,0 +1,4 @@
+Bloquear la pantalla de los dispositivos cuando no estén en uso.
+Verificar que los sitios web sean seguros antes de ingresar datos personales.
+Eliminar aplicaciones que ya no se utilizan para reducir riesgos.
+No instalar programas descargados de fuentes desconocidas.

@@ -1,0 +1,5 @@
+Realizar copias de seguridad periódicas de la información: permite recuperar los datos en caso de fallos del sistema o pérdida de información.
+Controlar los permisos de acceso de los usuarios: cada persona debe tener únicamente los permisos necesarios según su función dentro de la plataforma.
+Monitorear la actividad del sistema: revisar los registros de acceso ayuda a detectar comportamientos extraños o posibles intentos de ataque.
+Utilizar conexiones seguras mediante protocolos cifrados: protege la información que se transmite entre los usuarios y la plataforma.
+Capacitar a los usuarios sobre riesgos digitales: enseñar buenas prácticas ayuda a prevenir errores humanos como compartir información sensible o caer en engaños.
